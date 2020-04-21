@@ -1,24 +1,11 @@
 # hello-vue-cli
 
-## Project setup
-```
-npm install
-```
+## Creating This Project
 
-### Compiles and hot-reloads for development
-```
+```bash
+vue create --default hello-vue-cli
+cd hello-vue-cli
+# Running
 npm run serve
+xdg-open http://localhost:8081
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
