@@ -7,5 +7,5 @@ vue create --default hello-vue-cli
 cd hello-vue-cli
 # Running
 npm run serve
-xdg-open http://localhost:8081
+# Open browser in http://localhost:8081
 ```
